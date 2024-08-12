@@ -59,10 +59,10 @@ The `boggle` function initializes the Boggle board and iterates over each cell t
    }
    ```
 ## What You Can Learn
-<li>**Recursive Algorithm:** Understand how recursion can be used to explore possible solutions in a grid based problem.</li>
-<li>**Optimizations:** Learn about efficient ways to handle and search large sets of data using hash maps.</li>
-<li>**Grid Navigation:** Gain insights into navigating multi-dimensional arrays and managing pathfinding challenges</li>
-<li>**Rust Programming:** Experience Rust's strong type system and ownership model in practical applications.</li>
+- **Recursive Algorithm:** Understand how recursion can be used to explore possible solutions in a grid based problem.
+- **Optimizations:** Learn about efficient ways to handle and search large sets of data using hash maps.
+- **Grid Navigation:** Gain insights into navigating multi-dimensional arrays and managing pathfinding challenges
+- **Rust Programming:** Experience Rust's strong type system and ownership model in practical applications.
 
 ## Running Tests
 The project includes tests to ensure the correctness of the implementation. You can run the tests using the following command:
